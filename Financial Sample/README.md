@@ -23,7 +23,7 @@ The report consists of four pages:
 The following images show the visuals used in the report:
 
 
-- Dashboard: ![Dashboard](dashboard.png)
-- Sales Analysis: ![Sales Analysis](^3^)
+- Dashboard: ![Dashboard](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQR9U9YflMTnShN2qa6SoyRgCGovplABsMqyZhCKXPzIWprnKo-KRtOcg8UF53a62tDOkf51-cP-qV3JPZ6GkQgx4xR=w1600-h765)
+- Sales Analysis: ![Sales Analysis]()
 - Profit Analysis: ![Profit Analysis](^4^)
 - Gross Margin Analysis: ![Gross Margin Analysis](^5^)
